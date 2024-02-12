@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Factorize as many numbers as possible into a product of two smaller numbers.
+# Factorize as many numbers as possible into a product of two smaller numbers .
 
 while IFS= read -r LINE
 do
